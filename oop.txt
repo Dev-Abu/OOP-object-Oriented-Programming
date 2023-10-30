@@ -1,0 +1,45 @@
+What is object oriented programming?
+Oop is a Programming paradime.
+
+OOP Provide us.
+
+* Organize code.
+* Esier code.
+* Clean code.
+* Easy to undrestadable.
+* Easy to explore.
+* Easy to mantain.
+* Meomory efficient.
+* Dry.
+
+************** The maim pillars of OOP ****************
+1. Abstraction.
+2. Inheritance.
+3. Encapsulation.
+4. Polymorphism.
+
+Abstsaction :
+Abstaction is hide somthing for simplicity.
+
+Inheritance:
+Child class will take maching properties and values from parent class.
+
+Encapsulation :
+Keep properties and method private that will not work outside of the class.
+
+Polymorphism:
+This will bahave many ways, a child class can overwrite a method that inheried from parent class.
+
+
+
+
+		
+          
+          
+          
+
+
+
+
+
+
